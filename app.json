@@ -1,0 +1,27 @@
+{
+  "name": "depoimentos",
+  "displayName": "Depoimentos",
+  "expo": {
+    "name": "Depoimentoss",
+    "slug": "depoimentos",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFFFFF"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/foreground.png",
+        "backgroundImage": "./assets/background.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "description": "Teste para empresa"
+  }
+}
