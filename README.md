@@ -14,13 +14,13 @@
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/Brunowilliang/FaleMais.git
+$ git clone https://github.com/Brunowilliang/Depoimentos.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd FaleMais
+$ cd Depoimentos
 
 # Instale as dependências
-$ yarn install
+$ yarn or npm install
 
 # Execute a aplicação
 $ expo start
